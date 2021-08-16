@@ -43,7 +43,7 @@ In your terminal, navigate to the cloned file on your local machine and run voil
 ```python
   voila etf_analyzer.ipynb
 ```
-Screenshots from Voila:
+Screenshots from Voila web deployment:
 
 ![Capture1](https://github.com/kevin-mau/etf_analyzer/blob/main/Images/Capture1.PNG?raw=true)
 ![Capture2](https://github.com/kevin-mau/etf_analyzer/blob/main/Images/Capture2.PNG?raw=true)
