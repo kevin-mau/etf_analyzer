@@ -45,15 +45,10 @@ In your terminal, navigate to the cloned file on your local machine and run voil
 ```
 Screenshots from Voila:
 
-![Capture1](Images/Capture1.png)
-![Capture2](Images/Capture2.png)
+https://github.com/kevin-mau/etf_analyzer/blob/main/Images/Capture1.PNG
+https://github.com/kevin-mau/etf_analyzer/blob/main/Images/Capture2.PNG
 
 
-Along with data analysis researching daily returns, average daily returns, and cumulative returns, .
-
-![PYPL Daily Returns](Images/PYPL Daily Returns.png)
-![PYPL Cumulative Returns](Images/PYPL Cumulative Returns.png)
-![ETF Cumulative Returns](Images/ETF Cumulative Returns.png)
 
 
 ## Data:
