@@ -46,11 +46,17 @@ In your terminal, navigate to the cloned file on your local machine and run voil
 Screenshots from Voila web deployment:
 
 ![Capture1](https://github.com/kevin-mau/etf_analyzer/blob/main/Images/Capture1.PNG?raw=true)
+
+
 ![Capture2](https://github.com/kevin-mau/etf_analyzer/blob/main/Images/Capture2.PNG?raw=true)
 
+
 In addition, interactive plots will be displayed in the web application:
+
 ![PYPL Daily Returns](https://github.com/kevin-mau/etf_analyzer/blob/main/Images/PYPL%20Daily%20Returns.png?raw=true)
+
 ![PYPL Cumulative Returns](https://github.com/kevin-mau/etf_analyzer/blob/main/Images/PYPL%20Cumulative%20Returns.png?raw=true)
+
 ![ETF Cumulative Returns](https://github.com/kevin-mau/etf_analyzer/blob/main/Images/ETF%20Cumulative%20Returns.png?raw=true)
 
 
